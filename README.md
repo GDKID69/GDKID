@@ -1,5 +1,5 @@
-## ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Heyooooo I'm GDKID
-᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼A rando that made a Discord Bot :D  
+## ᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼Heyooooo I'm GDKID
+᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼᲼A rando that made a Discord Bot :D  
 
 - Oh yeah, I should probably add a link to my Discord Bot :/
 - You can click [here](https://discord.com/oauth2/authorize?client_id=749890079580749854&permissions=2147871808&scope=bot%20applications.commands) to add it I guess
