@@ -6,3 +6,4 @@
 - It's pretty cool -_-
 - It has commands and stuff
 - Just like any other Discord Bot
+- I guess I'll also just post random snippets of code here for reference
