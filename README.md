@@ -3,7 +3,7 @@
 ## A rando that made a Discord Bot :D
 
 - Oh yeah, I should probably add a link to my Discord Bot :/
-- You can click [https://discord.com/oauth2/authorize?client_id=749890079580749854&permissions=2147871808&scope=bot%20applications.commands][here] to add it I guess
+- You can click [https://discord.com/oauth2/authorize?client_id=749890079580749854&permissions=2147871808&scope=bot%20applications.commands] [here] to add it I guess
 - It's pretty cool -_-
 - It has commands and stuff
 - Just like any other Discord Bot
