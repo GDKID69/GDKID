@@ -6,4 +6,4 @@
 - It's pretty cool -_-
 - It has commands and stuff
 - Just like any other Discord Bot
-- I'll probably also just post [random bits of code](https://github.com/GDKID69/random-bits-of-code) here for reference
+- Yeh that's pretty much it
